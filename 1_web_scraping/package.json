@@ -1,0 +1,17 @@
+{
+  "name": "1_web_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.0"
+  },
+  "dependencies": {
+    "playwright": "^1.44.1"
+  }
+}
